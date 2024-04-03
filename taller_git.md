@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # git memandeunacagada
+=======
+# git lalalalla
+>>>>>>> f141eb6c74fce0a3549af003e35687d29bde9226
 
 git es una herramienta para la gestion de versiones de archivos. Esto quiere decir que nos facilita el versionado de nuestros archivos, permitiéndonos entre otras cosas:
 
